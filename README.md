@@ -7,7 +7,7 @@
 
 ## I solve problems.  You can do anything I can do.  
 ### I just happened to spend the years learning how to do it.  
-### My consulting prices reflect that.  I will gladly teach you to do what I do.  It will cost roughly the same.  
+
 
 <!---
 slimhindrance/slimhindrance is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
