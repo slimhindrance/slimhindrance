@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Chris Lindeman.  @slimhindrance is an anagram of my name
  
-- 👀 I'm looking to join a company where I can create novel solutions using big data.  I mean, what sense is there in learning Hadoop, Hive, SPark, etc. if I'm going to work in GBs?  I wanna comb that TB size dataset and really make something cool from it. 
+- 👀 I'm looking to join a company where I can create novel solutions using big data.  I mean, what sense is there in learning Hadoop, Hive, Spark, etc. if I'm going to work in GBs?  I wanna comb that TB size dataset and really make something cool from it. 
 
 - I'm interested in solving mundane problems that sap the life out of people.  For instance, scheduling part time employees, creating efficient routes for independent couriers, estimating demand.  Basically all of the things that people rack their brains trying to do, and usually aren't great at, but get good enough after expending tons of energy and patience.
 
