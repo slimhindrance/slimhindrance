@@ -8,8 +8,7 @@
 - 💞️ I’m looking to collaborate on ...  well... anything in my general field of interest, and a lot beyond it.  Just reach out.  
 - 📫 I can be reached at slimhindrance@gmail.com  Please feel free to reach out to me.  I'm much more personable than this readme might suggest.
 
-## I solve problems.  You can do anything I can do.  
-### I just happened to spend the years learning how to do it.  
+## I solve problems. 
 
 
 <!---
