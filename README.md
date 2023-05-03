@@ -3,7 +3,7 @@
 
 - I'm interested in solving mundane problems that sap the life out of people.  For instance, scheduling part time employees, creating efficient routes for independent couriers, estimating demand.  Basically all of the things that people rack their brains trying to do, and usually aren't great at, but get good enough after expending tons of energy and patience.
 
-- 🌱 I'm currently learning how to work with RNNs as a precursor to developing with transformers.  
+- 🌱 I'm currently flexing my Deep Learning muscles by working on semantic search and other applications of transformers for NLP.  
 - 💞️ I’m looking to collaborate on ...  well... anything in my general field of interest, and a lot beyond it.  Just reach out.  
 - 📫 I can be reached at slimhindrance@gmail.com  Please feel free to reach out to me.  I'm much more personable than this readme might suggest.
 
